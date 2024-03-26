@@ -9,6 +9,7 @@ I'm currently learning how to program in Spring Boot. I'm currently looking for 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [musiconmix@gmail.com](mailto:musiconmix@gmail.com)
 * 🧠  I'm learning Java Spring Boot
+* 🧠  I'm learning Golang
 
 ### Skills
 
